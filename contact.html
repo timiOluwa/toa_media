@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="bootstrap-5.3.2-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/contact.css">
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg nav navbar-light ">
+      <div class="container ">
+        <a class="navbar-brand ps-5" href="#">ToA<span class="fw-bolder span">Media</span></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="project.html">Projects</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      </nav>
+
+  <section id="feedback" class="p-5 mt-5 container contact reveal">
+    <div class="d-flex about-content gap-2 align mb-5">
+      <div class="line "></div>
+      <!-- <i class="bi bi-person-circle  fw-bold  " style="font-size: 2rem;"></i> -->
+      <h2 class="text-center  fw-bold">CONTACT US</h2>
+    </div>
+    <div class="container">
+      <h2 class="text-center mb-4">We'd Love Your Feedback!</h2>
+      <form action="https://formspree.io/f/xovvrnpe" class="show" method="post" id="feedbackForm">
+        <!-- Name Field -->
+        <div class="form-floating mb-3">
+          <input 
+            type="text" 
+            class="form-control" 
+            name="username"
+            id="name" 
+            placeholder="Your Name" 
+            required>
+          <label for="name">Your Name</label>
+        </div>
+        
+        <!-- Email Field -->
+        <div class="form-floating mb-3">
+          <input 
+            type="email" 
+            class="form-control" 
+            id="email" 
+            name="email"
+            placeholder="Your Email" 
+            required>
+          <label for="email">Your Email</label>
+        </div>
+        
+        <!-- Feedback Field -->
+        <div class="form-floating mb-3">
+          <textarea 
+            class="form-control" 
+            id="feedback" 
+            placeholder="Your Feedback" 
+            name="message"
+            style="height: 150px;" 
+            required></textarea>
+          <label for="feedback">Your Feedback</label>
+        </div>
+        
+        <!-- Submit Button -->
+        <button type="submit" class="btn btn-primary w-100">Send Feedback</button>
+      </form>
+    </div>
+  </section>
+
+  <div class="container"></div>
+
+  <div class="container-fluid mb-3py-3">
+    <div class="container text-center">
+      <a href="https://web.facebook.com/phillip.timilehin.96"><img src="assets/icons/facebook (1).png" style="width: 1.5rem;" alt=""></a>
+      <a href="https://www.instagram.com/timioluwamedia/"><img src="assets/icons/instagram (1).png" style="width: 1.5rem;" alt=""></a>
+      <a href="https://x.com/TBabailo23807"><img src="assets/icons/twitter.png" alt="" style="width: 2rem;"></a>
+      <a href=""><img src="assets/icons/tiktok.png" alt="" style="width: 1.5rem;"></a>
+      <a href="https://wa.me/2348139044985?text=Hello,%20I%20am%20interested%20in%20your%services"><img src="assets/icons/whatsapp (1).png" alt="" style="width: 1.5rem;"></a>
+      <p class="text-center"> Copyright © 2025 timiOluwa. All Right Reserved</p>
+    </div>
+   
+  
+  </div>
+ <script src="bootstrap-5.3.2-dist/js/bootstrap.bundle.js"></script> 
+</body>
+</html>

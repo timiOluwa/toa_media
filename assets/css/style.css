@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+    overflow-x: hidden;
+    scrollbar-width: none;
+}
+
+:root{
+    --main-color:rgb(30, 117, 30);
+    --bg-color:rgb(230, 247, 230);
+    --bg-alternate-color:rgb(211, 214, 211);
+    --black:rgb(0, 0, 0);
+    --white: #fff
+
+}
+
+body{
+    height: ;
+}
+
+.carousel-item{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5),rgba(0, 0, 0)) ,;
+}
+
+.span{
+    color: var(--main-color);
+}
+
+.nav{
+    background-color: var(--bg-color);
+}
+
+.nav-link{
+    color: var(--black);
+}
+
+.home-paragraph{
+    font-size: 16px;
+}
+
+.home a{
+    background-color: var(--main-color);
+    color: var(--bg-color);
+}
+
+.home-img-div{
+    padding-left: 5rem;
+    background-color: var(--bg-color);
+    height: 70vh;
+    background-image: url(../images/timioluwa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.about h2{
+    color: var(--black);
+}
+
+.home-img{
+    height: 80vh;
+}
+
+/* .about{
+    background-color: var(--bg-color);
+} */
+
+.underline{
+    background-color: var(--main-color);
+    padding: 1px;
+    width: 20%;
+}
+
+.about-content h2{
+    font-size: 40px;
+}
+
+.line{
+    background-color: var(--main-color);
+    height: 50px;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.about-img img{
+    height: 250px;
+    border-radius: 125px;
+}
+
+@media (max-width:320px) {
+    
+
+    .about-me-img{
+        height: 50px;
+    }
+
+    .about-img{
+        
+    }
+
+    i{
+        display: none;
+    }
+      
+}
+
+
+
+.about-content{
+    display: flex;
+    align-items: center;
+}
+
+.about-text-div span{
+    color: var(--main-color);
+}
+
+.about-text{
+    font-size: 14px;
+}
+
+.about-text-div button{
+    background-color: var(--main-color);
+    color: white;
+}
+
+/* #projects{
+    background-color: var(--bg-color);
+}
+
+.card-title{
+    color: var(--main-color);
+}
+
+#skills{
+    background-color: var(--bg-color);
+}
+
+
+.contact{
+    background-color: var(--bg-color);
+} */
+
+/* @keyframes right{
+    from {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+} */
+
+/* @keyframe left{
+    from{
+        opacity: 0;
+        transform: translatex(-100px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateX(0px)
+
+    }
+}
+
+.about-me{
+    animation: right linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 60%;
+}
+
+.about-me-img{
+    animation: left linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 60%;
+} */
+
+.reveal{
+    position: relative;
+    transform: translateX(100px);
+    opacity: 0;
+    transition: all 1s ease;
+}
+
+.reveal.active{
+    transform: translateX(0px);
+    opacity: 1;
+}
+
+.show{
+    position: relative;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 1s ease;
+}
+
+.show.actives{
+    transform: translateX(0px);
+    opacity: 1;
+}
+
+.footer{
+    background-color: var(--bg-color);
+}

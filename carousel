@@ -1,0 +1,187 @@
+ <div class="container mt-3">
+      <h2 class="text-center fw-bold ">PROJECTS</h2>    
+      <div class="row">
+        <div class="col-md-6 justify-content-center">
+          <div class="row justify-content-center">
+            <div class="col-md-12 text-center">Graphic Design Projects</div>
+            <div class="col-md-12 underline mb-3"></div>
+          </div>
+          <div id="carouselExampleCaptions" class="carousel slide">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 8"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" aria-label="Slide 9"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" aria-label="Slide 10"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" aria-label="Slide 11"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" aria-label="Slide 12"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" aria-label="Slide 13"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13" aria-label="Slide 14"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" aria-label="Slide 15"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" aria-label="Slide 16"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" aria-label="Slide 17"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" aria-label="Slide 18"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="containers">
+                  <img src="images/graphic/graphic4.png" class="d-block carousel-image img-fluid" alt="...">
+                </div>
+              </div>
+
+              <!-- first-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers">
+                  <img src="images/graphic/TOA_LOGO1.png" class="d-block carousel-image w-100 img-fluid" alt="...">
+                </div>
+              </div>
+               <!-- second-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/ASHABI LUXURIES.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+            <!-- third-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/AXIS COORD.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- fourth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/CRAFTING WINNING BUSINESS PLAN.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- fifth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/FELLOWSHIP.jpg" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- sixth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic4.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- seventh-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic6.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- eight-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic7.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- ninth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic10.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- tenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic11.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+
+              <!-- eleventh-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/graphic18.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+              <!-- tweleveth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/MARY.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+              <!-- thirtheenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/MONINUOLA.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+              <!-- fourtheenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/otegbeye forcas.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+              <!-- fiftheenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/PRAYER RAIN 1.1.jpg" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+
+              <!-- sixteenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/PROMO.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- seventeenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/riri bagy.png" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+
+              <!-- eighteenth-carousel-image -->
+              <div class="carousel-item">
+                <div class="containers ">
+                  <img src="images/graphic/TEENS WEEKy.jpg" class="d-block img-fluid carousel-image w-100" alt="...">
+                </div>
+              </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+         
+          
+        </div>
+        <div class="col-md-6">
+          <div class="row" >
+            <div class="col-md-12">Graphic Designs</div>
+            <div class="col-md-12 underline"></div>
+          </div>
+        </div>
+      </div>
+    </div>
