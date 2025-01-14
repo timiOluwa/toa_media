@@ -21,4 +21,4 @@ A visually appealing and responsive portfolio website to showcase the TOA Media 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/toa_media-portfolio.git
+   git clone https://github.com/timioluwa/toa_media.git
